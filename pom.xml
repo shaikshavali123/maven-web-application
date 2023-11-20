@@ -13,7 +13,7 @@
 
 	<organization>
 		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>https://github.com/shaikshavali123/maven-web-application/edit/development/pom.xml</url>
 	</organization>
 
 	<properties>
@@ -112,7 +112,6 @@
 	<build>
 		<finalName>maven-web-application</finalName>
 <plugins>		
-		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
